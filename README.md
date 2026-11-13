@@ -1,5 +1,7 @@
 # note-standardize
 
+[![skills.sh](https://skills.sh/b/NUDTxiongshu/note-standardize)](https://skills.sh/NUDTxiongshu/note-standardize)
+
 把学习材料做成**树形层级编号大纲**（思维导图式笔记）的 agent skill。
 通用，不限学科。已在英语文法材料上做过完整评估。
 
@@ -35,6 +37,10 @@
 ```bash
 npx skills add NUDTxiongshu/note-standardize
 ```
+
+或在 [skills.sh 页面](https://skills.sh/NUDTxiongshu/note-standardize) 查看。
+
+或在 [skills.sh 页面](https://skills.sh/NUDTxiongshu/note-standardize) 查看。
 
 或手动把 `SKILL.md` 放到你的 skills 目录。
 
